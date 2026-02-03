@@ -62,7 +62,7 @@ int writeFile(std::string inFileName, std::string outFilePath)
     std::string currentLine;
     while(std::getline(inFile, currentLine))
     {
-        outFile << currentLine;
+        outFile << currentLine << "\n";
     }
 
     return 0;
