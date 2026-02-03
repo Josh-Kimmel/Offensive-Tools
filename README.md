@@ -10,6 +10,10 @@ These tools are for educational purposes only. Do not attempt to run these tools
 - ### [Denial of Service](https://github.com/Josh-Kimmel/Offensive-Tools/tree/main/Denial%20of%20Service)
   - [DNSFlood.py](https://github.com/Josh-Kimmel/Offensive-Tools/blob/main/Denial%20of%20Service/DNSFlood.py)
   - [NTPFlood.py](https://github.com/Josh-Kimmel/Offensive-Tools/blob/main/Denial%20of%20Service/NTPFlood.py)
+ 
+- ### [Utilities](https://github.com/Josh-Kimmel/Offensive-Tools/tree/main/Utilities)
+  - [ScriptWebDeploy.cpp](https://github.com/Josh-Kimmel/Offensive-Tools/blob/main/Utilities/scriptWebDeploy.cpp)
+
 
 
 
