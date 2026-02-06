@@ -12,7 +12,9 @@ These tools are for educational purposes only. Do not attempt to run these tools
   - [NTPFlood.py](https://github.com/Josh-Kimmel/Offensive-Tools/blob/main/Denial%20of%20Service/NTPFlood.py)
  
 - ### [Utilities](https://github.com/Josh-Kimmel/Offensive-Tools/tree/main/Utilities)
-  - [ScriptWebDeploy.cpp](https://github.com/Josh-Kimmel/Offensive-Tools/blob/main/Utilities/scriptWebDeploy.cpp)
+  - [webDeploy.cpp](https://github.com/Josh-Kimmel/Offensive-Tools/blob/main/Utilities/webDeploy.cpp)
+  - [webDeploy.py](https://github.com/Josh-Kimmel/Offensive-Tools/blob/main/Utilities/webDeploy.py)
+
 
 
 
